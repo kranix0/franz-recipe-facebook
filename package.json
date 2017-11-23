@@ -1,0 +1,12 @@
+{
+  "id": "facebook",
+  "name": "Facebook",
+  "version": "1.0.0",
+  "description": "Facebook",
+  "main": "index.js",
+  "author": "Tony Ko <tony@htko.ca>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.facebook.com"
+  }
+}
