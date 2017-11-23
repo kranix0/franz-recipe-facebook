@@ -7,6 +7,6 @@
   "author": "Tony Ko <tony@htko.ca>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://www.facebook.com"
+    "serviceURL": "https://www.facebook.com/login"
   }
 }
